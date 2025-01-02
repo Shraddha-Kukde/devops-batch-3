@@ -1,1 +1,3 @@
-Added new feaure
+Added new feature
+Added a new feature by dev 1
+added a new feature
